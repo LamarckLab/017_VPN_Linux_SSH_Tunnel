@@ -64,9 +64,8 @@ git config --global https.proxy "socks5h://127.0.0.1:1080"
 
 方式 B：让所有程序走代理
 ```bash
-export http_proxy="socks5h://127.0.0.1:1080"
-export https_proxy="socks5h://127.0.0.1:1080"
-export ALL_PROXY="socks5h://127.0.0.1:1080"
+export http_proxy=socks5://127.0.0.1:1080
+export https_proxy=socks5://127.0.0.1:1080
 ```
 
 ---
