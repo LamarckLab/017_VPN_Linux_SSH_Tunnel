@@ -55,7 +55,7 @@ View Help Info:
 
 注释掉.bashrc中的 watch_proxy
 
-<img src="images/pic1.png" alt="pic1" width="600">
+<img src="images/pic1.jpg" alt="pic1" width="600">
 
 ---
 
