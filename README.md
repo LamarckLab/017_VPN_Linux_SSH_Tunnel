@@ -1,4 +1,4 @@
-<h2 align="center">🛰️ Linux 服务器外网代理配置（SSH + Clash 端口转发方案）</h1>
+<h2 align="center">🛰️ 无需服务器代理软件的外网访问方案：SSH反向隧道结合Clash实现</h1>
 
 <p align="center">
   <i> —— 2025.12.8</i>
